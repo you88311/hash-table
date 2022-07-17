@@ -1,3 +1,5 @@
+import java.util.Collection;
+
 class Entry {
     Object key = null;
     Object value = null;
@@ -8,4 +10,6 @@ class Entry {
         this.value = value;
         this.isDeleted = isDeleted;
     }
+
+    
 }
