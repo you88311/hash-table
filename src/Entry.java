@@ -10,6 +10,4 @@ class Entry {
         this.value = value;
         this.isDeleted = isDeleted;
     }
-
-    
 }
